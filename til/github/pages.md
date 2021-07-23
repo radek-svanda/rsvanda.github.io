@@ -1,5 +1,7 @@
 ## Today I learned
 
+### How to create personal pages on Github
+
 That it is a good thing to have personal pages or a blog. And the easiest way to get one (for a developer) is to create it on Github.
 
 It is easy as 1-2-3:
