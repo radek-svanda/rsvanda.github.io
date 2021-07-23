@@ -1,3 +1,3 @@
-# Subdir test
+# Today I learned
 
-Hello
+* [How to create personal pages on Github](github/pages)
